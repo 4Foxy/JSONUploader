@@ -1,0 +1,20 @@
+{
+    "lead": [
+        {
+            "firstName": "Clywd",
+            "lastName": "Ilewicz",
+            "status": "Closed - Converted"
+        },
+        {
+            "firstName": "Quinn",
+            "lastName": "Czapla",
+            "status": "Closed - Converted"
+        },
+        {
+            "firstName": "Benedetta",
+            "lastName": "Ames",
+            "company": "Divavu",
+            "status": "Closed - Not Converted"
+        }
+    ]
+}

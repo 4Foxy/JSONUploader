@@ -1,0 +1,22 @@
+{
+    "lead": [
+        {
+            "firstName": "Clywd",
+            "lastName": "Ilewicz",
+            "company": "Shufflester",
+            "status": "Closed - Converted"
+        },
+        {
+            "firstName": "Quinn",
+            "lastName": "Czapla",
+            "company": "Edgeclub",
+            "status": "Closed - Converted"
+        },
+        {
+            "firstName": "Benedetta",
+            "lastName": "Ames",
+            "company": "Divavu",
+            "status": "Closed - Not Converted"
+        }
+    ]
+}
