@@ -1,0 +1,16 @@
+.dummy{
+	color : black;
+}
+
+.label_margin {
+	margin-top: 13px;
+}
+
+.label_padding {
+	padding-left: 12px;
+}
+
+.main_label {
+	font-weight: normal;
+	font-size: 1.2rem;
+}

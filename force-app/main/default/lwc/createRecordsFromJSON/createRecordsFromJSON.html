@@ -1,0 +1,21 @@
+<template>
+    <lightning-card>
+            <h1 class="label_padding main_label">
+                Create records from JSON
+            </h1>
+            <p class="slds-p-horizontal_small">
+                <lightning-input
+                    type="file"
+                    label="Please, upload JSON file"
+                    accept={acceptedFormats}
+                    onchange={handleUploadFile}>
+                </lightning-input>
+            </p>
+            <div class="label_margin label_padding">
+                <p>Status : {status}</p>
+                <p>Records created : {recordsCreated}</p>
+                <p>Records failed : {recordsFailed}</p>
+                <p>Total records amount : {totalRecordsAmount}</p>
+            </div>
+    </lightning-card>
+</template>
